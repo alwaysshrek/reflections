@@ -1,0 +1,4 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+diff command, with the -u prompt shows the names of the old and the new files
+(with symbols) along with the contextial differences around the difference. The diff showed
+exactly the typo of "space" and "spacr" thus helping to find the bug in the new js script. 

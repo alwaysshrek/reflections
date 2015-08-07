@@ -1,0 +1,5 @@
+How might using version control make you more confident to make changes that could break something?
+Since version control maintains changes between each logical change, you can be sure that whatever
+was done can be rolled back using a combination of git checkout to a previous state and going
+up one commit state every time. This way you can check what changed between each commit states
+and the bugs, if any can be found/removed.

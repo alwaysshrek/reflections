@@ -1,0 +1,4 @@
+How can you use the commands git log and git diff to view the history of files?
+Just typing git log in a repository gives you the entire range of commits done 
+in that repository over a range of time. git diff on the other hand compares 
+two given commit IDS and outputs the difference between the range of two commits.

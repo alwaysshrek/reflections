@@ -1,0 +1,3 @@
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to use git for maintaining versions of all my files that I change very
+frequently.

@@ -1,0 +1,5 @@
+Why do you think some version control systems, like Git, allow saving multiple files 
+in one commit, while others, like Google Docs, treat each file separately?
+Because one logical change can span multiple files rather than one, so in that case
+it makes sense to save all the files which have changed together. Google Docs on the 
+other hand works per file so it may not recognize the automatic change.
