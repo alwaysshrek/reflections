@@ -8,3 +8,14 @@ What value do you think it offers?
 The staging area only contains the files which you want to track as part of the 
 coming commit. It offers the value of bunching together changes to different 
 files as part of one logical change.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can run git diff with various options to make sure that the change done is
+as per what you want. git diff without any arguments compares the working and the
+staging directory. With --staged option, it compares the staging and the commit1.
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+Branches are helpful when you want to do changes off-hand without touching the 
+master version. They help to keep one version stable while still allowing to
+change files to test future changes.
