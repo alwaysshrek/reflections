@@ -19,3 +19,7 @@ organized? How would branches help?
 Branches are helpful when you want to do changes off-hand without touching the 
 master version. They help to keep one version stable while still allowing to
 change files to test future changes.
+
+How do the diagrams help you visualize the branch structure?
+The diagrams allow you to see the child to parent structure as well as the branching 
+out of various branches.
