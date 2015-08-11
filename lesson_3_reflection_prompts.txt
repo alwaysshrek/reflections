@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When you are working in a team or you are working with multiple computers/locations, then
+remote repository makes sense. This allows to make changes from multiple locations and keep
+it all in one place and possibly in sync.
